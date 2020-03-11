@@ -1,0 +1,57 @@
+{
+    "title": "DiDaPiPa Wiki",
+  "description": "DiDaPiPa知识库",
+  "author": "BoilTask",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "root": "/",
+  "links": {
+    "sidebar": {
+      "Home": "https://didapipa.com"
+    }
+  },
+  "plugins": [
+    "katex",
+    "prism",
+    "-highlight",
+    "-lunr",
+    "-search",
+    "search-plus",
+    "copy-code-button",
+    "tbfed-pagefooter",
+    "expandable-chapters-small",
+    "sitemap",
+    "advanced-emoji",
+    "rss",
+    "klipse"
+  ],
+  "pluginsConfig": {
+    "prism": {
+        "css": [
+          "prismjs/themes/prism-solarizedlight.css"
+        ]
+    },
+    "tbfed-pagefooter": {
+        "copyright":"&copy DiDaPiPa",
+        "modify_label": "Revision Time:",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+      },
+    "sitemap": {
+        "hostname": "https://wiki.didapipa.com/"
+    },
+    "rss": {
+        "title": "DiDaPiPa Wiki",
+        "description": "DiDaPiPa Knowledge Base.",
+        "author": "BoilTask",
+        "site_url": "https://wiki.didapipa.com/",
+        "feed_url": "https://wiki.didapipa.com/feed/",
+        "managingEditor": "ouyangtian@didapipa.com",
+        "webMaster": "BoilTask@qq.com",
+        "categories": [
+            "DiDaPiPa",
+            "Wiki",
+            "BoilTask"
+        ]
+    }
+  }
+}

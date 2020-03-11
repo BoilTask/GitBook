@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DiDaPiPa Wiki]]></title>
+        <description><![CDATA[DiDaPiPa Knowledge Base.]]></description>
+        <link>https://wiki.didapipa.com/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 11 Mar 2020 20:22:22 GMT</lastBuildDate>
+        <atom:link href="https://wiki.didapipa.com/feed/" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[BoilTask]]></author>
+        <managingEditor><![CDATA[ouyangtian@didapipa.com]]></managingEditor>
+        <webMaster><![CDATA[BoilTask@qq.com]]></webMaster>
+        <category><![CDATA[DiDaPiPa]]></category>
+        <category><![CDATA[Wiki]]></category>
+        <category><![CDATA[BoilTask]]></category>
+        <item>
+            <title><![CDATA[说明]]></title>
+            <description><![CDATA[This is a book powered by GitBook.]]></description>
+            <link>https://wiki.didapipa.com/</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第一部分]]></title>
+            <description><![CDATA[123]]></description>
+            <link>https://wiki.didapipa.com/chapter1/README.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/README.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.1 数学]]></title>
+            <link>https://wiki.didapipa.com/chapter1/math/math.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/math/math.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.1 高等数学]]></title>
+            <link>https://wiki.didapipa.com/chapter1/math/advance.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/math/advance.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.2 离散数学]]></title>
+            <link>https://wiki.didapipa.com/chapter1/math/lisan.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/math/lisan.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.2 编程语言]]></title>
+            <link>https://wiki.didapipa.com/chapter1/program/program.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/program/program.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.2.1 C 语言]]></title>
+            <link>https://wiki.didapipa.com/chapter1/program/c.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/program/c.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.2.2 C++]]></title>
+            <link>https://wiki.didapipa.com/chapter1/program/c++.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/program/c++.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.2.3 Java]]></title>
+            <link>https://wiki.didapipa.com/chapter1/program/java.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/program/java.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.3 软件工程]]></title>
+            <link>https://wiki.didapipa.com/chapter1/software/software.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/software/software.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.4 数据结构]]></title>
+            <link>https://wiki.didapipa.com/chapter1/data_structure/data_structure.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/data_structure/data_structure.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.5 数据库原理]]></title>
+            <link>https://wiki.didapipa.com/chapter1/database/database.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/database/database.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.6 计算机网络]]></title>
+            <link>https://wiki.didapipa.com/chapter1/network/compute_network.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/network/compute_network.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.7 计算机系统]]></title>
+            <link>https://wiki.didapipa.com/chapter1/system/compute_system.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/system/compute_system.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.7.1 操作系统]]></title>
+            <link>https://wiki.didapipa.com/chapter1/system/operating.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/system/operating.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.7.2 微机接口]]></title>
+            <link>https://wiki.didapipa.com/chapter1/system/interface.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/system/interface.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.7.3 计算机组成原理]]></title>
+            <link>https://wiki.didapipa.com/chapter1/system/comprise.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/system/comprise.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[1.7.4 计算机系统结构]]></title>
+            <link>https://wiki.didapipa.com/chapter1/system/system_structure.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter1/system/system_structure.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第二部分]]></title>
+            <link>https://wiki.didapipa.com/chapter2/README.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter2/README.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[2.1 算法]]></title>
+            <link>https://wiki.didapipa.com/chapter2/algorithm/algorithm.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter2/algorithm/algorithm.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[2.2 数据挖掘]]></title>
+            <link>https://wiki.didapipa.com/chapter2/data_mining/data_mining.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter2/data_mining/data_mining.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[2.3 机器学习]]></title>
+            <link>https://wiki.didapipa.com/chapter2/learning/machine_learning.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter2/learning/machine_learning.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[2.4 搜索引擎]]></title>
+            <link>https://wiki.didapipa.com/chapter2/search/search_engine.html</link>
+            <guid isPermaLink="true">https://wiki.didapipa.com/chapter2/search/search_engine.html</guid>
+            <dc:creator><![CDATA[BoilTask]]></dc:creator>
+        </item>
+    </channel>
+</rss>
